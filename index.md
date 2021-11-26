@@ -30,3 +30,7 @@ Sector Comparison
 - <a href="Sector_Comparison_Wales.html" title="Wales">Wales</a>
 - <a href="Sector_Comparison_Scotland.html" title="Scotland">Scotland</a>
 
+Heat Pump Costs
+
+- <a href="Costs.html" title="Scotland">Heat Pump Costs by Sector</a>
+
