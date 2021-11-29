@@ -34,3 +34,9 @@ Heat Pump Costs
 
 - <a href="Costs.html" title="Scotland">Heat Pump Costs by Sector</a>
 
+
+
+Heat Pump Adoption Predictions
+
+- <a href="Coverage.html" title="Heat Pump Coverage">Heat Pump Costs by Sector</a>
+
