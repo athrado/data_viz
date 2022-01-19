@@ -36,7 +36,7 @@ Heat Pump Costs
 
 
 
-Heat Pump Adoption Predictions
+Heat Pump Adoption Predictions (work in progres)
 
-- <a href="Coverage.html" title="Heat Pump Coverage">Heat Pump Costs by Sector</a>
+- <a href="Coverage.html" title="Heat Pump Predictions">Heat Pump Predictions</a>
 
