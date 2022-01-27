@@ -40,3 +40,6 @@ Heat Pump Adoption Predictions (work in progress)
 
 - <a href="Coverage.html" title="Heat Pump Predictions">Heat Pump Predictions</a>
 
+EPC vs. MCS Heat Pumps (work in progress)
+
+- <a href="EPC_vs_MCS.html" title="Heat Pump Predictions">EPC vs. MCS</a>
