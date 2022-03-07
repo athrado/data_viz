@@ -34,6 +34,9 @@ Heat Pump Costs
 
 - <a href="Costs.html" title="Scotland">Heat Pump Costs by Sector</a>
 
+Distance to nearest HP
+
+- <a href="Distances_similar.html" title="Distance to nearest HP property">Distances to nearest (similar) HP property</a>
 
 
 Heat Pump Adoption Predictions (work in progress)
@@ -43,4 +46,4 @@ Heat Pump Adoption Predictions (work in progress)
 EPC vs. MCS Heat Pumps (work in progress)
 
 - <a href="EPC_vs_MCS.html" title="Heat Pump Predictions">EPC vs. MCS</a>
-- - <a href="EPC_vs_MCS_all.html" title="Heat Pump Predictions">EPC vs. MCS (all sets)</a>
+- <a href="EPC_vs_MCS_all.html" title="Heat Pump Predictions">EPC vs. MCS (all sets)</a>
