@@ -12,7 +12,7 @@ Heat Pump Distribution
 - <a href="Heat_Pumps_England.html" title="England">England</a>
 - <a href="Heat_Pumps_Wales.html" title="Wales">Wales</a>
 - <a href="Heat_Pumps_Scotland.html" title="Scotland">Scotland</a>
-- <a href="- Heat_Pump_Uptake_Blog.html" title="Scotland">Map for Blog</a>
+- <a href="Heat_Pump_Uptake_Blog.html" title="Map for Blog">Map for Blog</a>
 
 
 
