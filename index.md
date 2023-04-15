@@ -56,5 +56,5 @@ Upgradability (work in progress)
 
 EPC ratings for BN3:
 
-- <a href="epc_map_BN3_A-B.html.html" title="A-B properties for BN3"> A-B properties for BN3 </a>
+- <a href="epc_map_BN3_A-B.html" title="A-B properties for BN3"> A-B properties for BN3 </a>
 - <a href="epc_map_BN3_all_ratings.html" title="All properties with EPC ratings for BN3"> All properties with EPC ratings for BN3 </a>
