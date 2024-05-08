@@ -35,7 +35,7 @@ Heat Pump Costs
 
 - <a href="Costs.html" title="Scotland">Heat Pump Costs by Sector</a>
 
-Distance to nearest HP
+Distance to nearest heat pump
 
 - <a href="Distances_similar.html" title="Distance to nearest HP property">Distances to nearest (similar) HP property</a>
 
