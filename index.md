@@ -1,5 +1,7 @@
 # data_viz
 
+The following work was conducted by Julia Suter while working at Nesta between April 2021 and May 2023.
+
 Wales Analysis
 
 - <a href="Wales_EPC.html" title="Wales EPC">Wales EPC Ratings by Sectors</a>
